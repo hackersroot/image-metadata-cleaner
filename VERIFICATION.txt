@@ -1,6 +1,6 @@
 Verification date: 2026-09-15
 Environment: Windows, Python 3.13.14, Pillow 11.3.0, pypdf 6.1.1, olefile 0.47
-Command: python outputs/test_metadata_cleaner.py
+Command: python test_metadata_cleaner.py
 Result: 11 tests passed (0.788 seconds).
 
 Validated: image metadata/orientation/transparency, PDF metadata and exact rendered-pixel equality, PDF form field preservation, encrypted/signed input rejection, OOXML properties and content equality, synthetic legacy OLE property streams, GUI worker lifecycle, folder/ZIP/in-place output, CSV report, cancellation, recursive exclusions.
