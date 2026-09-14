@@ -1,0 +1,6 @@
+# Local working files and document-rendering artifacts
+work/
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
